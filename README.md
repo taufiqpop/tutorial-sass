@@ -1,4 +1,2 @@
-# tutorial-sass
-Belajar SASS/SCSS
-
-## https://sass-lang.com
+# Tutorial SASS/SCSS
+#### https://sass-lang.com
